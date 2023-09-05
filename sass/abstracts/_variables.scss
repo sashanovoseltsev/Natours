@@ -1,0 +1,75 @@
+/*
+COLORS:
+
+Light green: #7ed56f
+Medium green: #55c57a
+Dark green: #28b485
+
+*/
+
+$color-primary-light: #7ed56f;
+$color-primary: #55c57a;
+$color-primary-dark: #28b485;
+
+$color-text-dark: #777;
+$color-text-dark-2: #999;
+
+$color-black: #000;
+$color-gray-light-1: #f7f7f7;
+$color-gray-light-2: #eee;
+$color-gray-dark-3: #333;
+$color-white: #fff;
+
+$color-yellow: #ffb900;
+$color-orange: #ff7730;
+
+$color-blue: #2998ff;
+$color-purple: #5643fa;
+
+// GRID
+$grid-width: 114rem;
+$gutter-vertical: 8rem;
+$gutter-horiz: 6rem;
+
+// FONT
+$default-font-size: 1.6rem;
+
+$menu-stripes-length: 3.6rem;
+
+// SHADOWS
+
+// btn hover
+$shadow-1: 0 1rem 2rem rgba($color-black, 0.2);
+
+// btn pressed
+$shadow-2: 0 0.5rem 1rem rgba($color-black, 0.2);
+
+// img composition
+$shadow-3: 0 1.5rem 4rem rgba($color-black, 0.4);
+
+// img composition hover
+$shadow-4: 0 2.5rem 4rem rgba($color-black, 0.5);
+
+// feature card
+$shadow-5: 0 1.5rem 4rem rgba($color-black, 0.15);
+
+// tour card
+$shadow-6: 0 1.5rem 4rem rgba($color-black, 0.15);
+
+// story
+$shadow-7: 0 3rem 6rem rgba($color-black, 0.1);
+
+// booking form
+$shadow-8: 0 1.5rem 4rem rgba($color-black, 0.2);
+
+// form input focused
+$shadow-9: 0 0.5rem 1rem rgba($color-black, 0.1);
+
+// footer link hovered
+$shadow-10: 0 1rem 2rem rgba($color-black, 0.4);
+
+// nav button
+$shadow-11: 0 1rem 3rem rgba($color-black, 0.1);
+
+// popup
+$shadow-12: 0 2rem 4rem rgba($color-black, 0.2);
